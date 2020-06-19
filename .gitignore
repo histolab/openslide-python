@@ -4,3 +4,4 @@
 /*.egg-info
 /openslide/_convert*.so
 *.pyc
+Pipfile

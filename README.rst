@@ -2,6 +2,8 @@
 OpenSlide Python
 ================
 
+!!!THIS IS A TEMPORARY WORKAROUND TO HAVE openslide-python INSTALLABLE VIA PIP WITHOUT SETUPTOOLS ISSUE!!!
+
 OpenSlide Python is a Python interface to the OpenSlide library.
 
 OpenSlide_ is a C library that provides a simple interface for reading
