@@ -10,7 +10,7 @@ with open('README.rst') as _fh:
     _long_description = _fh.read()
 
 setup(
-    name='openslide-python',
+    name='openslide-wrapper',
     version=__version__,
     packages=[
         'openslide',
