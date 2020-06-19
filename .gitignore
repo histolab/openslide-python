@@ -5,3 +5,4 @@
 /openslide/_convert*.so
 *.pyc
 Pipfile
+.idea
